@@ -10,7 +10,6 @@ public class Chunk
     GameObject chunkObject;
     MeshRenderer meshRenderer;
     MeshFilter meshFilter;
-    MeshCollider meshCollider;
 
     int vertexIndex = 0;
     List<Vector3> vertices = new List<Vector3>();
@@ -36,7 +35,6 @@ public class Chunk
         chunkObject = new GameObject();
         meshFilter = chunkObject.AddComponent<MeshFilter>();
         meshRenderer = chunkObject.AddComponent<MeshRenderer>();
-        meshCollider = chunkObject.AddComponent<MeshCollider>();
 
         materials[0] = World.Instance.material;
         materials[1] = World.Instance.transparentMaterial;

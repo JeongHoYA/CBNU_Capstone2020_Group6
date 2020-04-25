@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{B87887D0-230F-F944-7279-527A5B43ABBD}</ProjectGuid>
+    <ProjectGuid>{5BD4DEE1-D9AA-830E-D289-F2CA2E0966C1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -65,37 +65,37 @@
   <ItemGroup>
     <Compile Include="Assets\Editor\AtlasPacker.cs" />
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear!/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear Ver.2/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear!/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear Ver.2/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear!/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear Ver.2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear!/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear Ver.2/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear!/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear Ver.2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear!/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear Ver.2/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear!/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear Ver.2/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear!/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear Ver.2/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear!/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear Ver.2/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear!/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear Ver.2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear!/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear Ver.2/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files (x86)/HoYA_GameMaking/Unity/Editor/2019.3.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -299,7 +299,7 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear!/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear Ver.2/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>C:/Program Files (x86)/HoYA_GameMaking/Unity/Editor/2019.3.8f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -664,7 +664,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{7EA541EE-9CDD-E757-3AD0-55ED3240A6CC}</Project>
+      <Project>{59E308AB-D13F-F26B-1C30-2875636EEBC0}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{7EA541EE-9CDD-E757-3AD0-55ED3240A6CC}</ProjectGuid>
+    <ProjectGuid>{59E308AB-D13F-F26B-1C30-2875636EEBC0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -67,31 +67,31 @@
     <Compile Include="Assets\Script\VoxelData.cs" />
     <Compile Include="Assets\Script\World.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear!/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear Ver.2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear!/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear Ver.2/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear!/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear Ver.2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear!/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear Ver.2/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear!/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear Ver.2/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear!/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear Ver.2/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear!/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear Ver.2/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear!/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear Ver.2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear!/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>D:/HoYA_Program/Unity Project/Build&amp;Clear Ver.2/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files (x86)/HoYA_GameMaking/Unity/Editor/2019.3.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
