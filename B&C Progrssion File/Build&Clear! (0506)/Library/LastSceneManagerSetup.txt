@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/Build Mode/Scenes/Build Mode.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
