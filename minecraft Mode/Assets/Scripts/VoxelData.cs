@@ -9,6 +9,14 @@ public static class VoxelData
     public static readonly int ChunkWidth = 5; // 박스의 너비 5
     public static readonly int ChunkHeight = 15; // 박스의 높이 5
 
+    public static readonly int TextureAtlasSizeInBlocks = 4;
+    public static float NormalizedBlockTextureSize
+    {
+
+        get { return 1f / (float)TextureAtlasSizeInBlocks; }
+
+    }
+
     public static readonly Vector3[] voxelVerts = new Vector3[8]{ // 편집을 원하지 않기 때문에 읽기 전용이고 8개의 
 
 
@@ -58,4 +66,3 @@ public static class VoxelData
     };
 
 }
-
