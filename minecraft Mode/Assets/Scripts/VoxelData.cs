@@ -6,8 +6,8 @@ using UnityEngine;
 public static class VoxelData
 {
 
-    public static readonly int ChunkWidth = 5; // 박스의 너비 5
-    public static readonly int ChunkHeight = 15; // 박스의 높이 5
+    public static readonly int ChunkWidth = 16; // 박스의 너비 5
+    public static readonly int ChunkHeight = 128; // 박스의 높이 5
     public static readonly int WorldSizeInChunks = 100;
 
     public static int WorldSizeInVoxels
