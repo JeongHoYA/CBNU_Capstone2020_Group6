@@ -1,0 +1,5 @@
+D:\HoYA_Program\Unity Project\YukiNet\bin\Debug\netstandard2.0\YukiNet.deps.json
+D:\HoYA_Program\Unity Project\YukiNet\bin\Debug\netstandard2.0\YukiNet.dll
+D:\HoYA_Program\Unity Project\YukiNet\obj\Debug\netstandard2.0\YukiNet.csprojAssemblyReference.cache
+D:\HoYA_Program\Unity Project\YukiNet\obj\Debug\netstandard2.0\YukiNet.AssemblyInfoInputs.cache
+D:\HoYA_Program\Unity Project\YukiNet\obj\Debug\netstandard2.0\YukiNet.AssemblyInfo.cs
